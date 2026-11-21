@@ -1,0 +1,7 @@
+PDF CLASSIFICATION PROGRESS
+[##############################] 100.0%
+Completed: 596/596 PDFs
+Elapsed: 46.1 minutes
+Estimated remaining: 0.0 minutes
+Speed: 0.22 PDFs/second
+Current PDF: www.nivabupa.com (Crest Executive Trainee – Business Analyst).pdf
